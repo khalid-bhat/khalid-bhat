@@ -1,5 +1,5 @@
 - 👋 Hi, I’m khalid
-- 👀 I am a self-taught coder. In my professional journey, I have grown into a Senior Software Engineer, amassing over 6 years of enriching experience. This path has been truly transformative, offering a myriad of challenges and invaluable learning opportunities.
+- 👀 I am a self-taught coder. In my professional journey, I have grown into a Senior Software Engineer/Technical Lead, amassing over 6 years of enriching experience. This path has been truly transformative, offering a myriad of challenges and invaluable learning opportunities.
 - 📫 you can reach out to me on khalidbhat.work@gmail.com
 
 
